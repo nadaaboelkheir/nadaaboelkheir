@@ -1,32 +1,26 @@
-<h1 align="center">👋 Hey, I'm Nada Aboelkheir</h1>
-<h3 align="center">🚀 Backend Developer with Node.Js 🚀</h3>
+<div align="center">
 
-# 🏠 About Me
+<h1>👋 Hey, I'm Nada Aboelkheir</h1>
+<h3>🚀 FullStack Developer with MEARN ( React.js| Node.js |MongoDB | Express.js) </h3>
 
-I am Passionate Backend Developer hailing from Egypt, adept at crafting robust and scalable solutions with Node.js. As a dedicated problem solver and tech enthusiast, I thrive on collaborating positively for efficient coding and impactful projects. Beyond coding, I find joy in exploring the world, traveling, and trying new things.
+## 🏠 About Me
+
+I'm a passionate Full-Stack Developer from Egypt, focused on building scalable and efficient solutions using Node.js and modern front-end technologies such as React.js. I enjoy tackling complex problems, writing clean code, and collaborating on impactful projects. Outside of coding, I love exploring new places, traveling, and embracing new experiences.
 
 ## 🚀 Current Focus
 
-At the moment, I'm immersed in the exciting realm of building an extraordinary e-commerce API. I believe in the power of clean code, effective problem-solving, and continuous improvement. Whether it's optimizing database structures, implementing advanced OOP concepts, or exploring new tools, I'm always up for a challenge.
+I'm currently enrolled in the ITI MEARN track and working on my graduation project. My project emphasizes clean architecture, optimization, and scalable database solutions. Whether it's applying advanced OOP concepts or exploring the latest tools and technologies, I'm always eager to take on new challenges and expand my skillset.
 
-## 🌐 Tech Enthusiast
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) 
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) 
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) 
-![AWS S3](https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white) 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+## 🌐 Tech Stack
+
+<p> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" /> <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" /> </p>
 
 ## 📫 Get in Touch
 
-I'm always open to connecting with like-minded individuals, sharing experiences, and collaborating on interesting projects. Feel free to reach out to me at [nadaaboelkheir1@gmail.com](mailto:nadaaboelkheir1@gmail.com). Let's build something awesome together!
+Feel free to reach out for collaborations, projects, or just a chat at <a href="mailto:nadaaboelkheir1@gmail.com">nadaaboelkheir1@gmail.com</a>.
 
 ## 🌟 Let's Connect
 
-Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-aboelkheir-3784971a3/) 
-to stay updated on my latest projects and professional endeavors.
+Connect with me on <a href="https://www.linkedin.com/in/nada-aboelkheir-3784971a3/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> for updates on my latest projects and professional endeavors.
 
-<!-- ✨ Passionate about coding and powered by curiosity ✨ -->
+</div>

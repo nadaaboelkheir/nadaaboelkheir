@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 <h1>👋 Hey, I'm Nada Aboelkheir</h1>
 <h3>🚀 Full-Stack Developer with Node.js</h3>

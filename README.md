@@ -1,7 +1,7 @@
 <div style="text-align: center; font-family: Arial, sans-serif; color: #333;" >
 
   <h1 style="font-size: 2.5em; margin-bottom: 0.5em;">👋 Hi, I'm Nada Aboelkheir</h1>
-  <h2 style="font-size: 1.5em; color: #0077B5;">Full-Stack Developer with Node.js</h2>
+  <h2 style="font-size: 1.5em; color: #0077B5; text-align: center">Full-Stack Developer with MEARN </h2>
 
   <section style="margin: 2em 0; max-width: 800px; margin-left: auto; margin-right: auto;">
     <h3 style="font-size: 1.2em; color: #555;">About Me</h3>

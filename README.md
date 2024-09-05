@@ -1,39 +1,63 @@
-<div align="left">
+<div style="text-align: center; font-family: Arial, sans-serif; color: #333;" >
 
-<h1  align="center">👋 Hey, I'm Nada Aboelkheir</h1>
-<h3 color="blue" align="center"> Full-Stack Developer with MEARN Stack </h3>
+  <h1 style="font-size: 2.5em; margin-bottom: 0.5em;">👋 Hi, I'm Nada Aboelkheir</h1>
+  <h2 style="font-size: 1.5em; color: #0077B5;">Full-Stack Developer with Node.js</h2>
 
-## 🏠 About Me
+  <section style="margin: 2em 0; max-width: 800px; margin-left: auto; margin-right: auto;">
+    <h3 style="font-size: 1.2em; color: #555;">About Me</h3>
+    <p style="font-size: 1.1em; line-height: 1.6;">
+      I'm a Full-Stack Developer from Egypt with expertise in Node.js and modern front-end technologies. I thrive on solving complex problems and making impactful contributions to projects. In my free time, I enjoy traveling and discovering new experiences.
+    </p>
+  </section>
 
-I'm a passionate Full-Stack Developer from Egypt, focused on building scalable and efficient solutions using Node.js and modern front-end technologies. I enjoy tackling complex problems, writing clean code, and collaborating on impactful projects. Outside of coding, I love exploring new places, traveling, and embracing new experiences.
+  <section style="margin: 2em 0; max-width: 800px; margin-left: auto; margin-right: auto;">
+    <h3 style="font-size: 1.2em; color: #555;">Current Focus</h3>
+    <p style="font-size: 1.1em; line-height: 1.6;">
+      Currently, I’m advancing through the ITI MEARN track and working on a graduation project that highlights:
+      <ul style="list-style-type: none; padding: 0; margin: 1em 0;">
+        <li>Clean Architecture</li>
+        <li>Database Optimization</li>
+      </ul>
+      I’m always eager to tackle new challenges and enhance my skill set.
+    </p>
+  </section>
 
-## 🚀 Current Focus
+  <section style="margin: 2em 0;">
+    <h3 style="font-size: 1.2em; color: #555;">Get in Touch</h3>
+    <p>
+      <a href="mailto:nadaaboelkheir1@gmail.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email icon" />
+      </a>
+      <a href="https://www.linkedin.com/in/nada-aboelkheir-3784971a3/" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn icon" />
+      </a>
+    </p>
+  </section>
 
-I'm currently enrolled in the ITI MEARN track and working on my graduation project. My project emphasizes clean architecture, optimization, and scalable database solutions. Whether it's applying advanced OOP concepts or exploring the latest tools and technologies, I'm always eager to take on new challenges and expand my skillset.
-
-## 🌐 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-  <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-</p>
-
-## 📫 Get in Touch
-
-<a href="mailto:nadaaboelkheir1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email icon" />
-</a>
-<a href="https://www.linkedin.com/in/nada-aboelkheir-3784971a3/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn icon" />
-</a>
+  <section style="margin: 2em 0; max-width: 800px; margin-left: auto; margin-right: auto;">
+    <h3 style="font-size: 1.2em; color: #555;">Tech Stack</h3>
+    <p style="font-size: 1.1em;">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-%232B2D36?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="TypeScript" />
+      <img src="https://img.shields.io/badge/Node.js-%236DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express.js-%23404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+      <img src="https://img.shields.io/badge/React-%23282C34?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+      <img src="https://img.shields.io/badge/Angular-%2317621E?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+      <img src="https://img.shields.io/badge/Redux-%23593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+      <img src="https://img.shields.io/badge/Context%20API-%232F4F4F?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Context API" />
+      <img src="https://img.shields.io/badge/MongoDB-%234EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/Sequelize-%235B2B2B?style=for-the-badge&logo=sequelize&logoColor=white" alt="Sequelize" />
+      <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      <img src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      <img src="https://img.shields.io/badge/Material%20UI-%230081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI" />
+      <img src="https://img.shields.io/badge/Axios-%232A2A2A?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Git-%F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/ESLint-%234B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
+      <img src="https://img.shields.io/badge/Socket.io-%23010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
+    </p>
+  </section>
 
 </div>

@@ -1,7 +1,7 @@
 <div align="left">
 
-<h1>👋 Hey, I'm Nada Aboelkheir</h1>
-<h3 color="blue"> Full-Stack Developer with MEARN Stack </h3>
+<h1  align="center">👋 Hey, I'm Nada Aboelkheir</h1>
+<h3 color="blue" align="center"> Full-Stack Developer with MEARN Stack </h3>
 
 ## 🏠 About Me
 

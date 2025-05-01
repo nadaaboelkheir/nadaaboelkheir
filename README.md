@@ -1,26 +1,32 @@
 <div style="text-align: center; font-family: Arial, sans-serif; color: #333;" >
 
   <h1 style="font-size: 2.5em; margin-bottom: 0.5em;">👋 Hi, I'm Nada Aboelkheir</h1>
-  <h2 style="font-size: 1.5em; color: #0077B5; text-align: center">Full-Stack Developer with MEARN </h2>
+  <h2 style="font-size: 1.5em; color: #0077B5; text-align: center">Backend Developer </h2>
 
   <section style="margin: 2em 0; max-width: 800px; margin-left: auto; margin-right: auto;">
     <h3 style="font-size: 1.2em; color: #555;">About Me</h3>
     <p style="font-size: 1.1em; line-height: 1.6;">
-      I'm a Full-Stack Developer from Egypt with expertise in Node.js and modern front-end technologies. I thrive on solving complex problems and making impactful contributions to projects. In my free time, I enjoy traveling and discovering new experiences.
+     Backend Developer with expertise in Node.js, Express and a strong understanding of SQL and MongoDB. Skilled in
+     building and maintaining scalable, high-performance server-side applications, with knowledge in the MEARN stack,
+     including React. Committed to continuous learning and solving complex problems.
     </p>
   </section>
 
   <section style="margin: 2em 0; max-width: 800px; margin-left: auto; margin-right: auto;">
-    <h3 style="font-size: 1.2em; color: #555;">Current Focus</h3>
-    <p style="font-size: 1.1em; line-height: 1.6;">
-      Currently, I’m advancing through the ITI MEARN track and working on a graduation project that highlights:
-      <ul style="list-style-type: none; padding: 0; margin: 1em 0;">
-        <li>Clean Architecture</li>
-        <li>Database Optimization</li>
-      </ul>
-      I’m always eager to tackle new challenges and enhance my skill set.
-    </p>
-  </section>
+  <h3 style="font-size: 1.2em; color: #555;">🚀 Current Focus</h3>
+  <p style="font-size: 1.1em; line-height: 1.6;">
+    I'm currently sharpening my skills and deepening my backend expertise in:
+  </p>
+  <ul style="font-size: 1.1em; line-height: 1.6; list-style-type: disc; padding-left: 20px; color: #333; text-align: left;">
+    <li>Advanced Database Design & Optimization</li>
+    <li>NestJS Framework</li>
+    <li>TypeScript</li>
+  </ul>
+  <p style="font-size: 1.1em; line-height: 1.6;">
+    I'm always eager to take on new challenges and grow as a developer.
+  </p>
+</section>
+
 
   <section style="margin: 2em 0;">
     <h3 style="font-size: 1.2em; color: #555;">Get in Touch</h3>

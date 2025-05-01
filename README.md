@@ -63,6 +63,9 @@
       <img src="https://img.shields.io/badge/Git-%F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       <img src="https://img.shields.io/badge/ESLint-%234B3263?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
       <img src="https://img.shields.io/badge/Socket.io-%23010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+
     </p>
   </section>
 
